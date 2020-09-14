@@ -1,6 +1,7 @@
 # Please describe Access Switch features in this document
 
 Fixed Configuration
+# Visted by Klotzbach
 
 
 19 inch rack mounting
