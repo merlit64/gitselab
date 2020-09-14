@@ -2,7 +2,7 @@
 
 Fixed Configuration - THIS IS NO LONGER SUPPORTED ON CISCO PRODUCTS 
 
-VA is super-duper!
+VA is super-duper-duper!
 
 19 inch rack mounting
 
